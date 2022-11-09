@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E6E6FA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Débora+Martins;I'm+21+years+old;I'm+from+Brazil;I+am+a+programming+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Débora+Martins;I'm+21+years+old;I'm+from+Brazil;I+am+a+programming+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ##
 
@@ -18,7 +18,7 @@
 
 <picture>
 <source 
-  height="180em" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deboracfmartins&show_icons=true&theme=dark&layout=compact&langs_count=7"
+ img width="50%" height="180em" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deboracfmartins&show_icons=true&theme=dark&layout=compact&langs_count=7"
   media="(prefers-color-scheme: dark)"
 />
 <source
